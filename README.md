@@ -1,6 +1,6 @@
 # A part of Udacity Nanodegree
 ### Where Am I
-Localization of a mobile robot
+Localization of a mobile robot using ROS AMCL and Tele-Operation/Navigation Stack.
 
 ### Basic Build Instructions
 1. Create a catkin Workspace
